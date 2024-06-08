@@ -8,6 +8,7 @@ Welcome to the Currency Converter React Application! This README provides an ove
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Deployment](#deployment)
 
 ## Introduction
 The Currency Converter React Application allows users to convert amounts between different currencies. It fetches real-time exchange rates from a third-party API and provides an intuitive interface for currency conversion.
@@ -54,3 +55,6 @@ To run this application locally, follow these steps:
 3. **Swap currencies:** Click the swap button to quickly reverse the selected currencies.  
 
 4. **View the result:** The converted amount will be displayed immediately after the conversion.
+
+## Deployment
+-> https://currencyconvertersupremeashu.netlify.app/
